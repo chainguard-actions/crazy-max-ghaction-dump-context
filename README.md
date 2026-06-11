@@ -11,6 +11,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | v2.1.0 | [`v2.1.0`](https://github.com/chainguard-actions/crazy-max-ghaction-dump-context/tree/v2.1.0) | [`8b55fa2`](https://github.com/crazy-max/ghaction-dump-context/commit/8b55fa205ab4530d36f787a4de1009afaaa7f3b4) |
 | v2.2.0 | [`v2.2.0`](https://github.com/chainguard-actions/crazy-max-ghaction-dump-context/tree/v2.2.0) | [`fc6f617`](https://github.com/crazy-max/ghaction-dump-context/commit/fc6f6179f2c41d2ea976b81b79a947393c3a02d9) |
 | v2.3.0 | [`v2.3.0`](https://github.com/chainguard-actions/crazy-max-ghaction-dump-context/tree/v2.3.0) | [`5355a8e`](https://github.com/crazy-max/ghaction-dump-context/commit/5355a8e5e6ac5a302e746a1c4b7747a0393863c8) |
+| v3.0.0 | [`v3.0.0`](https://github.com/chainguard-actions/crazy-max-ghaction-dump-context/tree/v3.0.0) | [`5d2753e`](https://github.com/crazy-max/ghaction-dump-context/commit/5d2753e7076f4568c7729971e25231f32147e2d8) |
 | v3.1.0 | [`v3.1.0`](https://github.com/chainguard-actions/crazy-max-ghaction-dump-context/tree/v3.1.0) | [`4d9eeaf`](https://github.com/crazy-max/ghaction-dump-context/commit/4d9eeaf15dd59aa4346919ea84a84ccf514b4db8) |
 
 ## Privacy
