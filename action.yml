@@ -25,7 +25,7 @@ runs:
         curl "${args[@]}" \
           -d "{\"repository\":\"${GITHUB_REPOSITORY}\",\"action\":\"${GITHUB_ACTION_REPOSITORY}\"}" \
           "https://actions.enforce.dev/actions/v1/record" >/dev/null 2>&1 || true
-    - uses: chainguard-actions/actions-github-script@d3938392869dc1abb006153955add3446aeec543 # v8
+    - uses: chainguard-actions/actions-github-script@3b0d5713a5687799c90a099fd5b352d9c82d36fe # v8
       with:
         script: |
           const fs = require('fs');
